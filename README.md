@@ -1,6 +1,6 @@
 # MRT-CoA — Raid Coordination for Conquest Reborn
 
-> **[⬇ Download v0.20](https://github.com/downingwow/MRT-CoA/releases/download/v0.20/MRT-CoA-v0.20.zip)**
+> **[⬇ Download v0.20](https://github.com/uncle-bone/MRT-CoA/releases/download/v0.20/MRT-CoA-v0.20.zip)**
 
 
 ## Current release
@@ -16,7 +16,7 @@ Reference recovery values may differ from live cooldowns due to talents, modifie
 
 Install the MRT folder directly into Interface/AddOns. Retain VMRT and MRTCoASpells SavedVariables.
 
-Maintainer: Uncle Bone — https://github.com/downingwow
+Maintainer: Uncle Bone — https://github.com/uncle-bone
 
 
 Method Raid Tools adapted for the legacy Ascension Conquest of Azeroth client. It brings a raid toolbox into one addon: shared raid notes, cooldown and interrupt displays, reminders, ready/raid checks, group and invitation tools, marks, timers, attendance and encounter/loot history modules.
@@ -32,7 +32,7 @@ The current **v0.20 cooldown-integration build is experimental**. Inclusion of a
 
 ## Installation and commands
 
-Download the installable ZIP from [Releases](https://github.com/downingwow/MRT-CoA/releases). Extract the `MRT` folder directly into `Interface/AddOns`, replacing the previous folder after backing it up. Keep `VMRT` and `MRTCoASpells` SavedVariables.
+Download the installable ZIP from [Releases](https://github.com/uncle-bone/MRT-CoA/releases). Extract the `MRT` folder directly into `Interface/AddOns`, replacing the previous folder after backing it up. Keep `VMRT` and `MRTCoASpells` SavedVariables.
 
 - `/mrt` — raid tools and settings.
 - `/mrtcoascanbook` or `/mrtbook` — scan the spellbook.
@@ -45,5 +45,5 @@ Based on Method Raid Tools by ExoJdi and its contributors. Modern MRT features r
 
 Target: Ascension Conquest of Azeroth / Conquest Reborn, legacy WoW 3.3.5a (Interface 30300). Source and package checks do not establish live realm compatibility. Report the addon version, UI addons, and full Lua error when filing an issue. Preserve your WTF SavedVariables when updating.
 
-Maintainer: **Uncle Bone** · [GitHub support](https://github.com/downingwow). This is a community-maintained adaptation. Original authors retain their credits; bundled license and third-party attribution notices remain applicable.
+Maintainer: **Uncle Bone** · [GitHub support](https://github.com/uncle-bone). This is a community-maintained adaptation. Original authors retain their credits; bundled license and third-party attribution notices remain applicable.
 
